@@ -20,7 +20,7 @@ It uses the ANSI escape codes for moving the cursor around
 ## Example
 ![Example](example.gif)
 ```bash
-./GameOfLife 30 20 50 10 10
+./GameOfLife 200 50 50 20 10
 ```
 
 ## Build project
@@ -32,7 +32,7 @@ mkdir build
 cd build
 cmake -G "Unix Makefiles" ../
 make
-./GameOfLife 200 50 50 20 10
+./GameOfLife 30 20 50 10 10
 ```
 You can replace the _"Unix Makefiles"_ by an other build system like _"Visual Studio 17 2022"_.\
 See the list on [cmake-generators](https://cmake.org/cmake/help/latest/manual/cmake-generators.7.html).
