@@ -26,6 +26,8 @@ It uses the ANSI escape codes for moving the cursor around
 ## Build project
 This project is using cmake. If you want to use simply build with make, do this following commands :
 ```bash
+git clone https://github.com/Fgdou/GameOfLife
+cd GameOfLife
 mkdir build
 cd build
 cmake -G "Unix Makefiles" ../
