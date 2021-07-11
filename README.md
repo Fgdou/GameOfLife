@@ -15,7 +15,7 @@ It uses the ANSI escape codes for moving the cursor around
 |height|Height of the area|
 |percent|Spawn rate of the cells on initiation|
 |radius|Radius of spawn on initiation|
-|speed|Frequency of actualisation if Hz|
+|speed|Frequency of actualisation in Hz|
 
 ## Example
 ![Example](example.gif)
