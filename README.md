@@ -20,7 +20,7 @@ It uses the ANSI escape codes for moving the cursor around
 ## Example
 ![Example](example.gif)
 ```bash
-./GameOfLife 200 50 50 20 10
+./GameOfLife 30 20 50 10 10
 ```
 
 ## Build project
