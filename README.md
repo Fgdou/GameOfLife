@@ -31,6 +31,7 @@ cd GameOfLife
 mkdir build
 cd build
 cmake -G "Unix Makefiles" ../
+make
 ./GameOfLife 200 50 50 20 10
 ```
 You can replace the _"Unix Makefiles"_ by an other build system like _"Visual Studio 17 2022"_.\
